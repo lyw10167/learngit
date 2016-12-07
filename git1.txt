@@ -4,7 +4,3 @@ this is 3
 this is 4
 555!!!
 dev
-new dev
-8888
-999
-shi
