@@ -4,10 +4,10 @@ this is 3
 this is 4
 555!!!
 dev
-when there are two different futures
+when there are three different futures
 dev again!
 dev forward
 watchout bug in line7
 stash3
 dev foorward
-
+dev fooorward
