@@ -2,7 +2,7 @@ waaabbbaaao
 wolegeqv
 this is 3
 this is 4
-555!!!
+this is 5
 dev
 when there are three different futures
 dev again!
@@ -13,3 +13,4 @@ dev foorward
 dev fooorward
 conflict
 new conflict
+simple conflict
