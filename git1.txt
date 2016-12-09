@@ -13,3 +13,4 @@ dev foorward
 dev fooorward
 conflict
 new conflict
+a complex conflict
