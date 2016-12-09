@@ -8,6 +8,7 @@ when there are three different futures
 dev again!
 dev forward
 watchout bug in line7
-stash3
+stash333
 dev foorward
 dev fooorward
+conflict
